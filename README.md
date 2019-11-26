@@ -1,6 +1,1 @@
-# Jianhang
-demo
-
-hello word 
-perfect 
-desktop
+日常学习笔记
