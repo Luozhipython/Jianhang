@@ -11,4 +11,10 @@ JavaScript: 直接写入HTML输出流
 	document.write("<p>这是一个段落</p>");
 JavaScript: 对事件的反应
 <button type="button" onclick="alert('欢迎')">点我！</button>
+
+
+1. 考研  		我要上学
+2. 心理医生     治愈我自己
+3. 导游     	单纯的不要门票
+4. 教师			优秀的人民教师
 */
